@@ -1,5 +1,0 @@
-[[redirects]]
-    from = "/*"
-    to = "https://www.instagram.com/saenkomarina/"
-    status = 301
-    force = true
